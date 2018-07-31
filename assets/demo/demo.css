@@ -860,3 +860,7 @@
 .flash {
   animation-name: flash;
 }
+
+.color-text{
+  color:purple;
+}
