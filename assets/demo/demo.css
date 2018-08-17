@@ -861,6 +861,10 @@
   animation-name: flash;
 }
 
-.color-text{
+.white-text{
   color: white;
+}
+.white-text2{
+  color:white;
+  float: right;
 }

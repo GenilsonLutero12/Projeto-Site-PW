@@ -10917,8 +10917,8 @@ fieldset[disabled][disabled] .btn-group-raised .btn,
 
 body {
   background-color: #eee;
-  color: #3C4858;
   font-weight: 300;
+  color: black;
 }
 
 legend {
@@ -11405,6 +11405,7 @@ label {
 @media (max-width: 767px) {
   .tab-pane#schedule-2 {
     padding-top: 20px;
+    color: white;
   }
 }
 
