@@ -862,9 +862,10 @@
 }
 
 .white-text{
-  color: white;
+  color: black;
+  margin-left: 15px;
 }
 .white-text2{
-  color:white;
+  color:black;
   float: right;
 }
